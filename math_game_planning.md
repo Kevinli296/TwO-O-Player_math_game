@@ -24,13 +24,13 @@ Player 1 wins with a score of 1/3
 ----- GAME OVER -----  
 Good bye!  
 
-Task 1: Extract Nouns for Classes
+Task 1: Extract Nouns for Classes  
 Classes: Player, Math Question
 
-Task 2: Write their roles
+Task 2: Write their roles  
 Class: Player
 State: lives/score
 
-Class: Math Question
-State: first_number, second_number, answer
+Class: Math Question  
+State: first_number, second_number, answer  
 Behavior: ask_question, check_answer
